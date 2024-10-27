@@ -1,34 +1,69 @@
 # Hi there, I'm AhWei 👋
 
-🌱 I'm a **Senior Frontend Developer**, specializing in innovative frontend solutions.
+🌱 I'm a **Senior Frontend Developer** with over 7 years of experience, specializing in building and leading development for hybrid apps, open-source projects, and complex web applications.
+
+📍 Based in Changhua County, Taiwan.
 
 # 🛠 Skills & Experience
 
-- **Languages & Frameworks**: React, TypeScript, Next.js
+### **Languages & Frameworks**
+- **Frontend**: React.js, Vue.js, TypeScript, Next.js, React Native, ES6, HTML/CSS, HTML5, RWD
+- **Backend**: Python, SQL, Docker, GCP
+- **Smart Contract & Blockchain**: Solidity, web3.js
+
+### **State Management & Testing**
 - **State Management**: Redux, Redux Toolkit
+- **Testing**: Playwright, Vitest, E2E testing, Xray on Jira
+
+### **Build Tools & CI/CD**
 - **Build Tools**: Webpack, Vite
-- **Testing**: Vitest, Playwright E2E testing
-- **CI/CD**: GitHub Actions
+- **CI/CD**: GitHub Actions (Automated workflows, deployment, and packaging)
+
+### **Other Tools & Skills**
+- **Automation & DevOps**: Docker, Git, GitHub Actions
+- **Web3 & Blockchain**: web3.js, Solidity
+- **Design Systems**: Created reusable components with Peakits UI-Kit
+- **App Integration**: Line Bot, Line Liff, face-js API for AI recognition, tappaysdk.com (Native JS Payment Integration)
 
 ## 🔭 Recent Projects
 
 - 🌐 **Chrome Extension Crypto Wallet**:
-  - Developed for the Chia Network.
-  - Enables secure storage and management of digital assets.
+  - Developed for the Chia Network, enhancing secure digital asset storage and management.
+  - [GitHub Repo](https://github.com/hashgreen/hoogii-wallet)
+
+- 🌿 **Climate-Dash (Electron Hybrid Application)**:
+  - Leading development at CodeGreen, providing seamless transition between Electron and web environments for increased flexibility and usability.
 
 - 💻 **Carbon Wallet Using Electron**:
-  - Crafted for the Chia Network.
-  - Provides a user-friendly interface for carbon credit management and transactions.
+  - Developed for Chia Network, focusing on carbon credit management.
+  - [GitHub Repo](https://github.com/Chia-Network/Climate-Wallet)
 
-## 🔄 Continuous Integration & Continuous Deployment (CI/CD)
+- 🛠️ **Video Teaching System**:
+  - Implemented chat functionalities with Vimeo integration for enhanced e-learning experience.
 
-- Streamlined development workflows via GitHub Actions.
-- Automated build, test, and deployment processes, ensuring rapid delivery and high code quality.
+## 🚀 Notable Achievements
+- **Team Leadership & Development**: Led the development of various open-source projects, established contribution guidelines, and promoted community participation, significantly boosting development velocity.
+- **App Optimizations**: Migrated projects from CSR to SSR with Next.js and implemented TypeScript, resulting in improved SEO and performance.
+- **Testing Improvements**: Established QA testing frameworks and increased test coverage to 90%, reducing post-release bugs by 30%.
 
 ## 📫 Get in Touch
 
 - **LinkedIn**: [https://www.linkedin.com/in/ahweihenguei/](https://www.linkedin.com/in/ahweihenguei/)
+- **GitHub**: [https://github.com/ahwei](https://github.com/ahwei)
 
+## 📈 Education
+
+### **National Kaohsiung University of Science and Technology**
+- **M.S. in Information Management** (2015 - 2017)
+  - Contributed to the development of finance-related web applications.
+- **B.S. in Information Management** (2011 - 2015)
+
+## 🌟 Personal Projects
+
+- **[NFT MarketPlace](https://ahwei-nft.peakits.tw/)** (Next.js, TypeScript, Solidity)
+- **[E-commerce Platform](https://awlgroup.com.tw/)**: Self-developed e-commerce module with integrated payment and shipping logistics (2021-2022).
+- **[PC LockIn HR System](https://pclockin.peakits.tw/)**: Developed AI face recognition using face-js API for employee attendance.
 
 ---
+
 ⭐️ Created by [ahwei](https://github.com/ahwei)
