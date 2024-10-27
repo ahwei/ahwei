@@ -7,9 +7,9 @@
 # 🛠 Skills & Experience
 
 ### **Languages & Frameworks**
-- **Frontend**: React.js, Vue.js, TypeScript, Next.js, React Native, ES6, HTML/CSS, HTML5, RWD
+- **Frontend**: React.js, Vue.js, TypeScript, Next.js, React Native,QWIK, ES6, HTML/CSS, HTML5, RWD
 - **Backend**: Python, SQL, Docker, GCP
-- **Smart Contract & Blockchain**: Solidity, web3.js
+- **Smart Contract & Blockchain**: Solidity, web3.js,web3 wallet,utxo
 
 ### **State Management & Testing**
 - **State Management**: Redux, Redux Toolkit
@@ -21,7 +21,7 @@
 
 ### **Other Tools & Skills**
 - **Automation & DevOps**: Docker, Git, GitHub Actions
-- **Web3 & Blockchain**: web3.js, Solidity
+- **Web3 & Blockchain**: web3.js, Soliditys,web3 wallet,chia coin set model
 - **Design Systems**: Created reusable components with Peakits UI-Kit
 - **App Integration**: Line Bot, Line Liff, face-js API for AI recognition, tappaysdk.com (Native JS Payment Integration)
 
@@ -61,7 +61,6 @@
 ## 🌟 Personal Projects
 
 - **[NFT MarketPlace](https://ahwei-nft.peakits.tw/)** (Next.js, TypeScript, Solidity)
-- **[E-commerce Platform](https://awlgroup.com.tw/)**: Self-developed e-commerce module with integrated payment and shipping logistics (2021-2022).
 - **[PC LockIn HR System](https://pclockin.peakits.tw/)**: Developed AI face recognition using face-js API for employee attendance.
 
 ---
