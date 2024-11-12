@@ -33,6 +33,7 @@
 
 - 🌿 **Climate-Dash (Electron Hybrid Application)**:
   - Leading development at CodeGreen, providing seamless transition between Electron and web environments for increased flexibility and usability.
+  - [GitHub Repo](https://github.com/CodeGreen-Labs/climate-dash)
 
 - 💻 **Carbon Wallet Using Electron**:
   - Developed for Chia Network, focusing on carbon credit management.
