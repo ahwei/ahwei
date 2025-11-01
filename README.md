@@ -2,7 +2,7 @@
 
 🌱 I'm a **Senior Frontend Developer** with over 7 years of experience, specializing in building and leading development for hybrid apps, open-source projects, and complex web applications.
 
-📍 Based in Changhua County, Taiwan.
+📍 Based in Kaohsiung County, Taiwan.
 
 # 🛠 Skills & Experience
 
