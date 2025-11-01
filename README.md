@@ -59,11 +59,6 @@
   - Contributed to the development of finance-related web applications.
 - **B.S. in Information Management** (2011 - 2015)
 
-## 🌟 Personal Projects
-
-- **[NFT MarketPlace](https://ahwei-nft.peakits.tw/)** (Next.js, TypeScript, Solidity)
-- **[PC LockIn HR System](https://pclockin.peakits.tw/)**: Developed AI face recognition using face-js API for employee attendance.
-
 ---
 
 ⭐️ Created by [ahwei](https://github.com/ahwei)
